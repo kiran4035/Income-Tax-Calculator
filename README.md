@@ -38,8 +38,8 @@ Calculate the tax for the Taxable amount that the user enter with there preferen
 Credits
 =======
 
-* Keerthi prasanna Sa 
-* Kiran kumar R
+* Keerthi prasanna Sa -> https://github.com/Keerthi-prasanna-Sa
+* Kiran kumar R ->  https://github.com/kiran4035
 
 * Thanks to our Prof. Sagar pandey sir, who gave the spark to fire up this project. 
    * You can check some of his works here 👉 https://www.researchgate.net/profile/Sagar-Pande-2
