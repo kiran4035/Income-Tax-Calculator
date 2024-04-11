@@ -8,6 +8,12 @@ from random_facts import random_fact
 from FAQs import faqs
 from history import history
 
+# testing a dummy api key for GHAS (Github Advanced Security)
+access_key = "kiran"
+if access_key == "kiran":
+    pass
+else:
+    pass
 
 # Create a window
 root = Tk()
